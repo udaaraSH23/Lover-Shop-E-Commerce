@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useReducer } from "react";
-import Button from "../../components/shared/Button/Button";
+import Button from "../../components/shared/button/Button";
 import { useSearchParams } from "react-router-dom";
 import {
   getProducts,
